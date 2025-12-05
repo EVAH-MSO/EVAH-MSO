@@ -84,9 +84,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EVAH-MSO&show_icons=true&theme=omni&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EVAH-MSO&theme=omni&hide_border=true" height="150"/>
 </p>
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=EVAH-MSO&theme=dracula&include_all_commits=true" alt="GitHub Contributions" />
+</p>
 
-## 📊 GitHub Contributions
-## 📊 GitHub Contributions
+---
+
 
 <p align="center">
   <img src="https://github-contributions.vercel.app/api?username=EVAH-MSO&include_all_commits=true" alt="GitHub Contributions" />
