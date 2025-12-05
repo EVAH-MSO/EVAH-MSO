@@ -90,16 +90,7 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=EVAH-MSO&include_all_commits=true" alt="GitHub Contributions" />
-</p>
-
----
-
 ## 💞 Let’s Connect!
-
-
 
 <p align="center">
   <a href="mailto:muthonikahari@gmail.com"><img src="https://img.shields.io/badge/Email-F06060?style=for-the-badge&logo=gmail&logoColor=white" /></a>
