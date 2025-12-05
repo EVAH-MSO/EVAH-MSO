@@ -85,12 +85,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EVAH-MSO&theme=omni&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EVAH-MSO&theme=dracula&hide_border=true&area=true&custom_title=✨%20My%20Coding%20Journey%20✨" />
-</p>
+## 📊 GitHub Contributions
 
----
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/EVAH-MSO)
 ## 💞 Let’s Connect!
 <p align="center">
   <a href="mailto:muthonikahari@gmail.com"><img src="https://img.shields.io/badge/Email-F06060?style=for-the-badge&logo=gmail&logoColor=white" /></a>
