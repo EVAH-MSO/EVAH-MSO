@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Contributions
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/EVAH-MSO)
+https://github-contributions.vercel.app/api?username=EVAH-MSO&include_all_commits=true
 ## 💞 Let’s Connect!
 
 
