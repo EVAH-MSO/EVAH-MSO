@@ -86,9 +86,16 @@
 </p>
 
 ## 📊 GitHub Contributions
+## 📊 GitHub Contributions
 
-https://github-contributions.vercel.app/api?username=EVAH-MSO&include_all_commits=true
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=EVAH-MSO&include_all_commits=true" alt="GitHub Contributions" />
+</p>
+
+---
+
 ## 💞 Let’s Connect!
+
 
 
 <p align="center">
